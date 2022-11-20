@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheOGApplePie
 - 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning flutter and angular
+- 🌱 I’m currently enhancing my skills in flutter and angular
 - 📫 How to reach me: email: thedanial.ali@gmail.com
 
 <!---
