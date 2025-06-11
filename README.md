@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheOGApplePie
-- 👀 I’m a web developer with 3 years experience in angular and nodeJS.
+- 👀 I’m a web developer with 3 years of professional experience in angular and nodeJS.
 - 🌱 I’m currently enhancing my skills in react and python
 - 📫 How to reach me: email: thedanial.ali@gmail.com
 
