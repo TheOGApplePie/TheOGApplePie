@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheOGApplePie
-- 👀 I’m interested in mobile and web development
-- 🌱 I’m currently enhancing my skills in flutter and angular
+- 👀 I’m a web developer with 3 years experience in angular and nodeJS.
+- 🌱 I’m currently enhancing my skills in react and python
 - 📫 How to reach me: email: thedanial.ali@gmail.com
 
 <!---
